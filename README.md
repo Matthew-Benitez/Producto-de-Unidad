@@ -6,8 +6,11 @@
       - Diferenciar cada método de análisis de circuitos.
       - Usar de manera correcta las leyes de Kirchhoff dentro de los análisis de circuitos.
       - Utilizar de manera rápida y eficaz los métodos de análisis para cualquier circuito.
+      
 2. MARCO TEÓRICO
-
+![image](https://github.com/Matthew-Benitez/Producto-de-Unidad/blob/main/Marco%20Te%C3%B3rico/2021-01-19%20(6).png)
+![image](https://github.com/Matthew-Benitez/Producto-de-Unidad/blob/main/Marco%20Te%C3%B3rico/2021-01-19%20(5).png)
+![image](https://github.com/Matthew-Benitez/Producto-de-Unidad/blob/main/Marco%20Te%C3%B3rico/2021-01-19%20(4).png)
 
 
 3. DESARROLLO
@@ -30,7 +33,7 @@
 
 5. EXPLICACIÓN
 
-5.1.- Para explicar uno de los métodos de análisis descritos se procederá a realizar en la realidad un circuito que será analizado por método de voltaje de nodos para encontrar el voltaje en el nodo A.
+   5.1.- Para explicar uno de los métodos de análisis descritos se procederá a realizar en la realidad un circuito que será analizado por método de voltaje de nodos para encontrar el voltaje en el nodo A.
 
 ![image](https://user-images.githubusercontent.com/75439689/104966741-ac4fec80-59af-11eb-861f-60d63c67a067.png)
 
@@ -56,23 +59,35 @@ Se concluye que el método de análisis por voltajes de nodos es eficiente y rá
 
 6. APORTACIONES
 
-6.1. Circuito Diseñado en un Simulador
+   6.1. Circuito Diseñado en un Simulador
 
 ![image](https://user-images.githubusercontent.com/75439689/104966869-fcc74a00-59af-11eb-9cfd-0043943b3a99.png)
 
-6.2. Voltaje A Medido en la Simulación
+   6.2. Voltaje A Medido en la Simulación
 
 ![image](https://user-images.githubusercontent.com/75439689/104966889-06e94880-59b0-11eb-8ed7-fa2580982904.png)
 
-6.3. Materiales
+   6.3. Materiales
 
 ![image](https://user-images.githubusercontent.com/75439689/104966918-123c7400-59b0-11eb-9e79-ab1b8ba4139f.png)
 
-6.4. Circuito Diseñado
+   6.4. Circuito Diseñado
 
 ![image](https://user-images.githubusercontent.com/75439689/104966939-1c5e7280-59b0-11eb-96f2-8a50add4729a.png)
 
-6.5. Voltaje A Medido en la Realidad
+   6.5. Voltaje A Medido en la Realidad
 
 ![image](https://user-images.githubusercontent.com/75439689/104966958-26807100-59b0-11eb-82b9-c6cdee232840.png)
 
+
+7. Conclusiones
+
+   - Existen diversos métodos de análisis de circuitos los cuales varían dependiendo si se analiza por ramas, lazos o nodos. Adicionalmente, dichos métodos varían si se analizan por voltajes o corrientes; y también dependen de las leyes que se empleen en estos (sean las Leyes de Kirchhoff o la Ley de Ohm).
+   - La finalidad de aplicar estos métodos consiste en facilitar la resolución de los problemas planteados en los diversos circuitos que se puedan presentar, pero para su resolución es necesario conocer cómo solucionar sistemas de ecuaciones, ya que siempre se llegan a plantear ecuaciones en la aplicación de los métodos mencionados. 
+   - Cabe recalcar que es necesario llevar a cabo cada paso detalladamente dependiendo del método que se desee emplear. Ya que si se coloca mal la polaridad en una resistencia o se considera mal un signo de algún valor dado, esto llevaría a perjudicar la resolución del ejercicio, obteniéndose valores erróneos.
+
+8. Bibliografía
+
+   - Floyd, T.L.(2007). *Principios de circuitos eléctricos* (Octava ed.)
+   
+   
