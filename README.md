@@ -12,6 +12,16 @@
 
 3. DESARROLLO
 
+![Ejercicios PU 1_Página_01](https://user-images.githubusercontent.com/75439689/104982664-28aaf580-59d9-11eb-8adf-dbc9df4475d1.jpg)
+![Ejercicios PU 1_Página_02](https://user-images.githubusercontent.com/75439689/104982666-29438c00-59d9-11eb-8cab-07a58c7fd5b2.jpg)
+![Ejercicios PU 1_Página_03](https://user-images.githubusercontent.com/75439689/104982667-29dc2280-59d9-11eb-97e8-ec835a7f9da4.jpg)
+![Ejercicios PU 1_Página_04](https://user-images.githubusercontent.com/75439689/104982668-29dc2280-59d9-11eb-9fd7-3a3d75f7b591.jpg)
+![Ejercicios PU 1_Página_05](https://user-images.githubusercontent.com/75439689/104982671-29dc2280-59d9-11eb-8351-b5726e2e0be9.jpg)
+![Ejercicios PU 1_Página_06](https://user-images.githubusercontent.com/75439689/104982674-2a74b900-59d9-11eb-8321-6598ac40919d.jpg)
+![Ejercicios PU 1_Página_07](https://user-images.githubusercontent.com/75439689/104982675-2a74b900-59d9-11eb-929b-40696b658b6a.jpg)
+![Ejercicios PU 1_Página_08](https://user-images.githubusercontent.com/75439689/104982678-2b0d4f80-59d9-11eb-94a7-f065ff4d18c4.jpg)
+![Ejercicios PU 1_Página_09](https://user-images.githubusercontent.com/75439689/104982679-2b0d4f80-59d9-11eb-8a5a-c9438646992a.jpg)
+![Ejercicios PU 1_Página_10](https://user-images.githubusercontent.com/75439689/104982680-2b0d4f80-59d9-11eb-8052-78a1a9cd21ac.jpg)
 
 
 4. LISTA DE COMPONENTES
